@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-07-09 12:18:24",
+    "error_type": "Processing",
+    "message": "فشل معالجة الطلب",
+    "details": "يجب تعيين GROQ_API_KEY في متغيرات البيئة"
+  },
+  {
+    "timestamp": "2025-07-09 12:19:05",
+    "error_type": "Processing",
+    "message": "فشل معالجة الطلب",
+    "details": "يجب تعيين GROQ_API_KEY في متغيرات البيئة"
+  },
+  {
+    "timestamp": "2025-07-09 12:19:07",
+    "error_type": "Processing",
+    "message": "فشل معالجة الطلب",
+    "details": "يجب تعيين GROQ_API_KEY في متغيرات البيئة"
+  },
+  {
+    "timestamp": "2025-07-09 12:19:08",
+    "error_type": "Processing",
+    "message": "فشل معالجة الطلب",
+    "details": "يجب تعيين GROQ_API_KEY في متغيرات البيئة"
+  }
+]
