@@ -1,4 +1,4 @@
-# Cabston One
+# The Assistant
 
 A Python web application using Flask for summarizing and translating text, and extracting text from audio files, documents, and images.
 
