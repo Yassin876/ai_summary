@@ -42,4 +42,3 @@ A Python web application using Flask for summarizing and translating text, and e
 
 ---
 
-This project is ready to be pushed to GitHub. For any questions or suggestions, feel free to open an issue or contact the maintainer! 
